@@ -18,6 +18,9 @@ Code in this repository is provided under the terms of the [MIT license](https:/
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/br3ndonland/udacity-fsnd/master?urlpath=lab) Launch in Binder container
 
 <strong>
+
+## Table of contents
+
 - Introduction:
   - 0.1 Readme
   - 0.2 Syllabus
