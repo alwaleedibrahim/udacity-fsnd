@@ -1,4 +1,4 @@
-# Table of contents
+# Udacity Full Stack Web Developer Nanodegree
 <a href="https://www.udacity.com/">
   <img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300" alt="Udacity logo">
 </a>
