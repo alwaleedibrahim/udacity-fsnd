@@ -16,6 +16,7 @@ Code in this repository is provided under the terms of the [MIT license](https:/
 </a> Launch in Google Colaboratory
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/br3ndonland/udacity-fsnd/master?urlpath=lab) Launch in Binder container
+
 <strong>
 - Introduction:
   - 0.1 Readme
