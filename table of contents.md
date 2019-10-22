@@ -1,4 +1,22 @@
 # Table of contents
+<a href="https://www.udacity.com/">
+  <img src="https://s3-us-west-1.amazonaws.com/udacity-content/rebrand/svg/logo.min.svg" width="300" alt="Udacity logo">
+</a>
+
+[Udacity Full Stack Developer Nanodegree program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
+
+Brendon Smith ([br3ndonland](https://github.com/br3ndonland))
+
+[![code license](https://img.shields.io/badge/code%20license-MIT-blue.svg?longCache=true&style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+
+Code in this repository is provided under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
+
+<a href="https://colab.research.google.com/github/br3ndonland/udacity-fsnd">
+  <img width="50px" src="https://colab.research.google.com/img/colab_favicon.ico">
+</a> Launch in Google Colaboratory
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/br3ndonland/udacity-fsnd/master?urlpath=lab) Launch in Binder container
+<strong>
 - Introduction:
   - 0.1 Readme
   - 0.2 Syllabus
@@ -45,3 +63,4 @@
 
 - Servers:
   - 5.1 Linux server configuration
+<strong>
